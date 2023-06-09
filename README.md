@@ -1,2 +1,2 @@
 # test-docker-website
-Something to test use of docker on windows with jekyll
+Something to test use of docker on windows with Jekyll.
